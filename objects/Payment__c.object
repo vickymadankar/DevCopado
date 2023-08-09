@@ -18,6 +18,15 @@
         <trackTrending>false</trackTrending>
         <type>LongTextArea</type>
         <visibleLines>3</visibleLines>
+    </fields>
+     <fields>
+        <fullName>Comments1__c</fullName>
+        <externalId>false</externalId>
+        <label>Comments1</label>
+        <length>32768</length>
+        <trackTrending>false</trackTrending>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
         
     </fields>
     <fields>
