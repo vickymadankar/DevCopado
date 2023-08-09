@@ -18,6 +18,7 @@
         <trackTrending>false</trackTrending>
         <type>LongTextArea</type>
         <visibleLines>3</visibleLines>
+        
     </fields>
     <fields>
         <fullName>Date__c</fullName>
