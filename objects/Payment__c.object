@@ -183,7 +183,7 @@
         <type>Currency</type>
     </fields>
     <fields>
-        <fullName>Status__c</fullName>
+
         <externalId>false</externalId>
         <label>Status</label>
         <required>true</required>
