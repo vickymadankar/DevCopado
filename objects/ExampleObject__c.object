@@ -182,4 +182,13 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+    <fields>
+        <fullName>Deployment_Comment__c</fullName>
+        <description>Example field 2 for Copado Deployment</description>
+        <externalId>false</externalId>
+        <label>Deployment Comment</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+    </fields>
 </CustomObject>
