@@ -2,7 +2,7 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
-        
+
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
@@ -169,6 +169,15 @@
         <description>Example field for Copado Deployment</description>
         <externalId>false</externalId>
         <label>Deployment Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Deployment_Date2__c</fullName>
+        <description>Example field 2 for Copado Deployment</description>
+        <externalId>false</externalId>
+        <label>Deployment Date2</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Date</type>
