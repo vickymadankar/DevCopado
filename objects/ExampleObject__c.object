@@ -183,12 +183,12 @@
         <type>Date</type>
     </fields>
     <fields>
-        <fullName>Deployment_Comment__c</fullName>
-        <description>Example field 2 for Copado Deployment</description>
+        <fullName>Deployment_Date3__c</fullName>
+        <description>Example field 3 for Copado Deployment</description>
         <externalId>false</externalId>
-        <label>Deployment Comment</label>
+        <label>Deployment Date3</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
+        <type>Date</type>
     </fields>
 </CustomObject>
